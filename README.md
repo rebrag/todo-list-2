@@ -18,7 +18,7 @@ A simple and responsive Todo application built with React, TypeScript, and Fireb
 
 ## Installation
 1. Clone repository
-```bash
+bash
 git clone [your-repository-url]
 cd todo-app
 
